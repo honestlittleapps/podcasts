@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ <channel>
+  <title>Wind Down: Short Bedtime Routines</title>
+  <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+  <atom:link href="https://honestlittleapps.github.io/podcasts/wind-down/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <copyright>Narration and original text © 2026 Honest Little Apps. </copyright>
+  <description><![CDATA[<p>Short guided routines to close the day: park the worries, pick tomorrow&#x27;s three things, relax the body, and rest. Calm narration over soft brown noise that fades out gently. Nothing to get right, and it&#x27;s fine to fall asleep partway through. Not medical advice.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-show&mt=8">Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+  <itunes:summary>Short guided routines to close the day: park the worries, pick tomorrow&#x27;s three things, relax the body, and rest. Calm narration over soft brown noise that fades out gently. Nothing to get right, and it&#x27;s fine to fall asleep partway through. Not medical advice. Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone.</itunes:summary>
+  <itunes:author>Honest Little Apps</itunes:author>
+  <itunes:owner><itunes:name>Honest Little Apps</itunes:name></itunes:owner>
+  <itunes:image href="https://honestlittleapps.github.io/podcasts/winddown-cover.jpg"/>
+  <image><url>https://honestlittleapps.github.io/podcasts/winddown-cover.jpg</url><title>Wind Down: Short Bedtime Routines</title><link>https://honestlittleapps.github.io/podcasts/wind-down/</link></image>
+  <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <podcast:locked>no</podcast:locked>
+  <podcast:medium>podcast</podcast:medium>
+  <item>
+   <title>Close the day</title>
+   <description><![CDATA[<p>This is a short guided routine to help you close the day. There&#x27;s nothing to get right. If you drift off partway through, that&#x27;s fine.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep01&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>This is a short guided routine to help you close the day. There&#x27;s nothing to get right. If you drift off partway through, that&#x27;s fine.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-01.mp3" length="1360183" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-001</guid>
+   <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:49</itunes:duration>
+   <itunes:episode>1</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Park your worries</title>
+   <description><![CDATA[<p>Tonight&#x27;s routine is for the busy mind, the one that starts talking the moment the lights go off.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep02&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>Tonight&#x27;s routine is for the busy mind, the one that starts talking the moment the lights go off.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-02.mp3" length="1190495" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-002</guid>
+   <pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:28</itunes:duration>
+   <itunes:episode>2</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Tomorrow&#x27;s three things</title>
+   <description><![CDATA[<p>One reason sleep feels hard is that tomorrow feels undecided. So tonight, let&#x27;s decide just enough.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep03&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>One reason sleep feels hard is that tomorrow feels undecided. So tonight, let&#x27;s decide just enough.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-03.mp3" length="1177963" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-003</guid>
+   <pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:27</itunes:duration>
+   <itunes:episode>3</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>A slow body scan</title>
+   <description><![CDATA[<p>Tonight we&#x27;ll move slowly through the body, just noticing. You don&#x27;t need to change anything.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep04&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>Tonight we&#x27;ll move slowly through the body, just noticing. You don&#x27;t need to change anything.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-04.mp3" length="1232081" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-004</guid>
+   <pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:33</itunes:duration>
+   <itunes:episode>4</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>After a stressful day</title>
+   <description><![CDATA[<p>If today was a lot, this one is for you.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep05&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>If today was a lot, this one is for you.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-05.mp3" length="1121118" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-005</guid>
+   <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:20</itunes:duration>
+   <itunes:episode>5</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Counting down the room</title>
+   <description><![CDATA[<p>Tonight we&#x27;ll use a simple counting practice to settle the mind.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep06&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>Tonight we&#x27;ll use a simple counting practice to settle the mind.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-06.mp3" length="1103774" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-006</guid>
+   <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:17</itunes:duration>
+   <itunes:episode>6</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>When you stayed up too late again</title>
+   <description><![CDATA[<p>If you&#x27;re listening to this later than you meant to, there&#x27;s no lecture here.</p><p>Made by Honest Little Apps, the makers of Sleepward: Bedtime Routine, a free four-minute evening reset app for iPhone. <a href="https://apps.apple.com/us/app/id6796299594?pt=129123876&ct=pod-wind-down-ep07&mt=8">Get Sleepward: Bedtime Routine on the App Store</a></p><p>Narrated with a synthetic (text-to-speech) voice.</p>]]></description>
+   <itunes:summary>If you&#x27;re listening to this later than you meant to, there&#x27;s no lecture here.</itunes:summary>
+   <link>https://honestlittleapps.github.io/podcasts/wind-down/</link>
+   <enclosure url="https://honestlittleapps.github.io/podcasts/wind-down/wind-down-07.mp3" length="974844" type="audio/mpeg"/>
+   <guid isPermaLink="false">hla-wind-down-007</guid>
+   <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
+   <itunes:duration>00:02:01</itunes:duration>
+   <itunes:episode>7</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
